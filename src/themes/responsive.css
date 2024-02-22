@@ -1,0 +1,147 @@
+/* AnimatedLanding */
+
+@media (max-width: 550px) {
+    .navLinks a {
+        font-size: small;
+    }
+
+    .logo {
+        width: 38px;
+        height: 38px;
+    }
+}
+
+@media (max-width: 400px) {
+    .navLinks a {
+        font-size: 8px;
+    }
+
+    .logo {
+        width: 28px;
+        height: 28px;
+    }
+}
+
+@media (max-width: 1025px) {
+    .title {
+        font-size: 64px;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .title {
+        font-size: 52px;
+    }
+}
+
+/* vertical timer */
+
+@media (max-width: 425px) {
+    .letsGoTxt {
+        font-size: 40px;
+    }
+}
+
+/* horizontal scroll carousel */
+
+@media (max-height: 615px) {
+    .container-btns {
+        bottom: -40px;
+    }
+}
+
+/* multiple scrolls french alps */
+
+@media (max-width: 680px) {
+    .titleAlpsTxt {
+        font-size: 24px;
+    }
+
+    .titleAlps {
+        font-size: 64px;
+    }
+
+    .AlpsParagraph {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
+@media (max-width: 425px) {
+    .titleAlpsTxt {
+        font-size: 12px;
+    }
+
+    .titleAlps {
+        font-size: 52px;
+    }
+}
+
+@media (max-width: 344px) {
+    .titleAlpsTxt {
+        font-size: 8px;
+    }
+
+    .titleAlps {
+        font-size: 42px;
+    }
+
+    .AlpsParagraph {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+}
+
+/* historical freeze */
+
+@media (max-width: 846px) {
+    .bigBlock p {
+        margin-top: 40px;
+        padding: 0px
+    }
+}
+
+@media (max-width: 680px) {
+    .bigBlock p {
+        margin-top: 40px;
+        padding: 0px;
+        font-size: small;
+    }
+}
+
+@media (max-width: 560px) {
+    .bigBlock p {
+        margin-top: 10px;
+        padding: 0px;
+        font-size: small;
+    }
+
+    .bigBlock h1 {
+        font-size: large;
+    }
+}
+
+
+@media (max-width: 425px) {
+    .bigBlock {
+        padding: 20px;
+        font-size: small;
+    }
+}
+
+@media (max-width: 320px) {
+    .bigBlock {
+        padding: 10px;
+        font-size: small;
+    }
+}
+
+
+/* spaceX Rocket */
+
+@media (max-width: 425px) {
+    .titleSpaceX {
+        font-size: large;
+    }
+}

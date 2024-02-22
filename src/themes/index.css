@@ -10,3 +10,65 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* restaurant */
+
+.LandingBackground {
+    background-image: url("../assets/img/LandingBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.RestaurantBackground {
+    background-image: url("../assets/img/RestaurantBackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* carousel */
+
+.s1 {
+    background-image: url("../assets/img/forest1.jpg");
+}
+
+.s2 {
+    background-image: url("../assets/img/forest2.jpg");
+}
+
+.s3 {
+    background-image: url("../assets/img/forest3.jpg");
+}
+
+/* moutains */
+
+.bg-mountain {
+    background-image: url("../assets/img/background-moutain.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mountains {
+    background-image: url("../assets/img/moutain.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* rocket */
+
+.b1Rocket {
+    background-image: url("../assets/img/toprocket.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.b2Rocket {
+    background-image: url("../assets/img/midrocket.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.b3Rocket {
+    background-image: url("../assets/img/botrocket.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
