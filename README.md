@@ -9,12 +9,13 @@ Coded by Ozne, feel free to clone and use / edit it.
 - React Icons version 5.0.1
 - React Router Dom version 6.22.1
 
-[GSAP Docs](https://gsap.com/docs/v3/)
+Check the [GSAP Docs](https://gsap.com/docs/v3/) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Important Notes
 
-I created this site containing 7 different projects with GSAP from beginner to professional level by myself while following Enzo Ustariz's training available here: https://www.ecole-du-web.net/p/cours-gsap
+I created this site containing 7 different projects with GSAP from beginner to professional level by myself while following Enzo Ustariz's training [available here](https://www.ecole-du-web.net/p/cours-gsap)
 
 Please remember I didn't focus on style or responsiveness but on the use of GSAP with REACT
 
